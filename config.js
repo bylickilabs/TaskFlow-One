@@ -12,13 +12,13 @@ const CONFIG = {
         },
         {
             username: 		"bylickilabs",
-            repo: 			"LINK",
-            displayName: 	"REPO NAME"
+            repo: 			"SysScope",
+            displayName: 	"SysScope"
         },
         {
             username: 		"bylickilabs",
-            repo: 			"LINK",
-            displayName: 	"REPO NAME"
+            repo: 			"NeonCryptProSuite",
+            displayName: 	"NeonCryptProSuite"
         }
     ],
 
