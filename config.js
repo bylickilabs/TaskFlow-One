@@ -7,8 +7,8 @@ const CONFIG = {
     githubRepos: [
         {
             username: 		"bylickilabs",
-            repo: 			"LINK",
-            displayName: 	"REPO NAME"
+            repo: 			"TaskFlow-One",
+            displayName: 	"TaskFlow One"
         },
         {
             username: 		"bylickilabs",
