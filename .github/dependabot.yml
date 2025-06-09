@@ -1,21 +1,24 @@
 version: 2
 updates:
-  # Überwacht Änderungen an GitHub Actions (z. B. CI/CD)
+  # GitHub Actions überwachen (CI/CD)
   - package-ecosystem: "github-actions"
-    directory: "/"  # Root-Verzeichnis
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # npm-Pakete (z. B. wenn du marked.js oder andere Libs lokal verwaltest)
+  - package-ecosystem: "npm"
+    directory: "/"
     schedule:
       interval: "daily"
+    allow:
+      - dependency-type: "direct"
 
-  # Überwacht JS/CSS-Dateien, die per CDN eingebunden sind (manuell pflegbar)
-  - package-ecosystem: "npm"
-    directory: "/"  # kein echtes npm-Projekt, wird als Referenz geführt
+  # Web (HTML/CSS/JS via CDN) wird nicht direkt gescannt, aber du kannst Notification-Tracking erzwingen:
+  - package-ecosystem: "docker"
+    directory: "/"
     schedule:
       interval: "daily"
     ignore:
       - dependency-name: "*"
-        update-types: ["version-update:semver-patch"] # Nur relevante Updates zulassen
-    allow:
-      - dependency-type: "direct"
-    commit-message:
-      prefix: "chore"
-      include: "scope"
+        update-types: ["version-update:semver-patch"]
