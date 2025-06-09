@@ -1,0 +1,21 @@
+version: 2
+updates:
+  # Überwacht Änderungen an GitHub Actions (z. B. CI/CD)
+  - package-ecosystem: "github-actions"
+    directory: "/"  # Root-Verzeichnis
+    schedule:
+      interval: "daily"
+
+  # Überwacht JS/CSS-Dateien, die per CDN eingebunden sind (manuell pflegbar)
+  - package-ecosystem: "npm"
+    directory: "/"  # kein echtes npm-Projekt, wird als Referenz geführt
+    schedule:
+      interval: "daily"
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-patch"] # Nur relevante Updates zulassen
+    allow:
+      - dependency-type: "direct"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
