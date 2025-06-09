@@ -1,8 +1,8 @@
 |![HTML](https://img.shields.io/badge/html-5-E34F26?logo=html5&logoColor=white)|![CSS](https://img.shields.io/badge/css-3-1572B6?logo=css3&logoColor=white)|![JavaScript](https://img.shields.io/badge/javascript-es6-F7DF1E?logo=javascript&logoColor=black)|![Kanban](https://img.shields.io/badge/kanban-supported-33CC99?logo=trello&logoColor=white)|![Dependabot](https://img.shields.io/badge/dependabot-enabled-success?logo=dependabot)|[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-online-brightgreen?logo=github&logoColor=white&style=for-the-badge)](https://bylickilabs.github.io/TaskFlow-One/)|
 |---|---|---|---|---|---|
 
-|![License](https://img.shields.io/github/license/deinBenutzername/taskflow-one?style=flat-square)|![Last Commit](https://img.shields.io/github/last-commit/deinBenutzername/taskflow-one)|![Issues](https://img.shields.io/github/issues/deinBenutzername/taskflow-one)|
-|---|---|---|
+|![License](https://img.shields.io/github/license/deinBenutzername/taskflow-one?style=flat-square)|![Last Commit](https://img.shields.io/github/last-commit/deinBenutzername/taskflow-one)|![Issues](https://img.shields.io/github/issues/deinBenutzername/taskflow-one)|[![Security Policy](https://img.shields.io/badge/security-policy-blue?style=for-the-badge&logo=github)](https://github.com/bylickilabs/TaskFlow-One/blob/main/SECURITY.md)|
+|---|---|---|---|
 
 # 🚀 TaskFlow One
 > Modernes, intuitives Kanban-Board für effektives Projektmanagement im inspirierenden Neon-Design.
