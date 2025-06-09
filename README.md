@@ -21,7 +21,7 @@
 10. [📜 Lizenz](#-lizenz)  
 11. [👥 Beitrag leisten](#-beitrag-leisten)  
 12. [📌 GitHub Topics](#-github-topics)
-13. [❤️ Vielen Dank](#-vielen-dank)
+13. [❤️ Vielen Dank](#%EF%B8%8F-vielen-dank)
 
 <br>
 
