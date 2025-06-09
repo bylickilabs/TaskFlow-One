@@ -1,5 +1,5 @@
-|![Dependabot Enabled](https://img.shields.io/badge/dependabot-enabled-blue?logo=dependabot)|[![Dependabot](https://img.shields.io/badge/dependabot-enabled-success?logo=dependabot)](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically)|
-|---|---|
+![HTML](https://img.shields.io/badge/html-5-E34F26?logo=html5&logoColor=white)|![CSS](https://img.shields.io/badge/css-3-1572B6?logo=css3&logoColor=white)|![JavaScript](https://img.shields.io/badge/javascript-es6-F7DF1E?logo=javascript&logoColor=black)|![Kanban](https://img.shields.io/badge/kanban-supported-33CC99?logo=trello&logoColor=white)|![Dependabot](https://img.shields.io/badge/dependabot-enabled-success?logo=dependabot)|[![Dependabot](https://img.shields.io/badge/dependabot-enabled-success?logo=dependabot)](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically)|
+|---|---|---|---|---|---|
 
 # 🚀 TaskFlow One
 > Modernes, intuitives Kanban-Board für effektives Projektmanagement im inspirierenden Neon-Design.
