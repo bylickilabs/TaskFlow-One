@@ -1,12 +1,11 @@
 version: 2
 updates:
-  # GitHub Actions überwachen (CI/CD)
+
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
 
-  # npm-Pakete (z. B. wenn du marked.js oder andere Libs lokal verwaltest)
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
@@ -14,7 +13,6 @@ updates:
     allow:
       - dependency-type: "direct"
 
-  # Web (HTML/CSS/JS via CDN) wird nicht direkt gescannt, aber du kannst Notification-Tracking erzwingen:
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
