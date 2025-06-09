@@ -2,7 +2,8 @@
 
 ## 📅 Unterstützte Versionen
 
-Wir unterstützen aktiv die neueste stabile Hauptversion von **TaskFlow One**. Frühere Versionen erhalten keine Sicherheitsupdates.
+- Wir unterstützen aktiv die neueste stabile Hauptversion von **TaskFlow One**.
+  - Frühere Versionen erhalten keine Sicherheitsupdates.
 
 | Version | Unterstützt | Hinweise                  |
 |---------|-------------|---------------------------|
