@@ -1,3 +1,6 @@
+|![Dependabot Enabled](https://img.shields.io/badge/dependabot-enabled-blue?logo=dependabot)|[![Dependabot](https://img.shields.io/badge/dependabot-enabled-success?logo=dependabot)](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically)|
+|---|---|
+
 # 🚀 TaskFlow One
 > Modernes, intuitives Kanban-Board für effektives Projektmanagement im inspirierenden Neon-Design.
 
