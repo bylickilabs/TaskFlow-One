@@ -2,39 +2,32 @@ const CONFIG = {
 	
 	localVersion: "1.0.0",
 	
-    passwordProtectionEnabled: 	true,
-    password: 					"test123",
+    passwordProtectionEnabled: 		true,
+    password: 				"test123",
     
 
     showGitHubRepos:			 true,
     githubRepos: [
         {
             username: 		"bylickilabs",
-
-            repo: 			"https://github.com/bylickilabs/TaskFlow-One",
+            repo: 		"https://github.com/bylickilabs/TaskFlow-One",
             displayName: 	"TaskFlow-One"
         },
         {
             username: 		"bylickilabs",
-            repo: 			"https://github.com/bylickilabs/NeonCryptProSuite",
+            repo: 		"https://github.com/bylickilabs/NeonCryptProSuite",
             displayName: 	"NeonCryptProSuite"
         },
         {
             username: 		"bylickilabs",
-            repo: 			"https://github.com/bylickilabs/Password-Manager",
+            repo: 		"https://github.com/bylickilabs/Password-Manager",
             displayName: 	"PasswordManager"
         },
         {
             username: 		"bylickilabs",
-            repo: 			"https://github.com/bylickilabs/system-diagnose-tool",
+            repo: 		"https://github.com/bylickilabs/system-diagnose-tool",
             displayName: 	"CLI-DiagnoseTool"
-        },
-        {	    
-            username: 		"bylickilabs",
-            repo: 			"TaskFlow-One",
-            displayName: 	"TaskFlow One"
         }
-
     ],
 
 
@@ -60,10 +53,10 @@ const CONFIG = {
         skype: 			"",
         slack: 			"",
         snapchat: 		"",
-        soundcloud: 	"",
+        soundcloud: 		"",
         spotify: 		"",
-        stackexchange: 	"",
-        stackoverflow: 	"",
+        stackexchange: 		"",
+        stackoverflow: 		"",
         telegram: 		"",
         tiktok: 		"",
         twitch: 		"",
