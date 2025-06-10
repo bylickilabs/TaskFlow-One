@@ -10,6 +10,7 @@ const CONFIG = {
     githubRepos: [
         {
             username: 		"bylickilabs",
+
             repo: 			"https://github.com/bylickilabs/TaskFlow-One",
             displayName: 	"TaskFlow-One"
         },
@@ -28,6 +29,21 @@ const CONFIG = {
             repo: 			"https://github.com/bylickilabs/system-diagnose-tool",
             displayName: 	"CLI-DiagnoseTool"
         }		
+
+            repo: 			"TaskFlow-One",
+            displayName: 	"TaskFlow One"
+        },
+        {
+            username: 		"bylickilabs",
+            repo: 			"SysScope",
+            displayName: 	"SysScope"
+        },
+        {
+            username: 		"bylickilabs",
+            repo: 			"NeonCryptProSuite",
+            displayName: 	"NeonCryptProSuite"
+        }
+
     ],
 
 

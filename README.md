@@ -1,5 +1,15 @@
+|![HTML](https://img.shields.io/badge/html-5-E34F26?logo=html5&logoColor=white)|![CSS](https://img.shields.io/badge/css-3-1572B6?logo=css3&logoColor=white)|![JavaScript](https://img.shields.io/badge/javascript-es6-F7DF1E?logo=javascript&logoColor=black)|![Kanban](https://img.shields.io/badge/kanban-supported-33CC99?logo=trello&logoColor=white)|![Dependabot](https://img.shields.io/badge/dependabot-enabled-success?logo=dependabot)|[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-online-brightgreen?logo=github&logoColor=white&style=for-the-badge)](https://bylickilabs.github.io/TaskFlow-One/)|
+|---|---|---|---|---|---|
+
+|[![CodeQL](https://github.com/bylickilabs/TaskFlow-One/actions/workflows/codeql.yml/badge.svg)](https://github.com/bylickilabs/TaskFlow-One/actions/workflows/codeql.yml)|[![License](https://img.shields.io/github/license/bylickilabs/TaskFlow-One?style=for-the-badge)](https://github.com/bylickilabs/TaskFlow-One/blob/main/LICENSE)|[![Last Commit](https://img.shields.io/github/last-commit/bylickilabs/TaskFlow-One?style=for-the-badge)](https://github.com/bylickilabs/TaskFlow-One/commits/)|[![Issues](https://img.shields.io/github/issues/bylickilabs/TaskFlow-One?style=for-the-badge)](https://github.com/bylickilabs/TaskFlow-One/issues)|[![Security Policy](https://img.shields.io/badge/security-policy-blue?style=for-the-badge&logo=github)](https://github.com/bylickilabs/TaskFlow-One/blob/main/SECURITY.md)|
+|---|---|---|---|---|
+
 # 🚀 TaskFlow One
 > Modernes, intuitives Kanban-Board für effektives Projektmanagement im inspirierenden Neon-Design.
+
+|![TaskFlow-One](https://github.com/user-attachments/assets/df92f925-0bd3-4832-8423-e7de4096e8d8)|
+|---|
+
 
 <br>
 
