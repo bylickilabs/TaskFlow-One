@@ -1,4 +1,7 @@
 const CONFIG = {
+	
+	localVersion: "1.0.0",
+	
     passwordProtectionEnabled: 	true,
     password: 					"test123",
     
@@ -7,6 +10,26 @@ const CONFIG = {
     githubRepos: [
         {
             username: 		"bylickilabs",
+
+            repo: 			"https://github.com/bylickilabs/TaskFlow-One",
+            displayName: 	"TaskFlow-One"
+        },
+        {
+            username: 		"bylickilabs",
+            repo: 			"https://github.com/bylickilabs/NeonCryptProSuite",
+            displayName: 	"NeonCryptProSuite"
+        },
+        {
+            username: 		"bylickilabs",
+            repo: 			"https://github.com/bylickilabs/Password-Manager",
+            displayName: 	"PasswordManager"
+        },
+        {
+            username: 		"bylickilabs",
+            repo: 			"https://github.com/bylickilabs/system-diagnose-tool",
+            displayName: 	"CLI-DiagnoseTool"
+        }		
+
             repo: 			"TaskFlow-One",
             displayName: 	"TaskFlow One"
         },
@@ -20,18 +43,20 @@ const CONFIG = {
             repo: 			"NeonCryptProSuite",
             displayName: 	"NeonCryptProSuite"
         }
+
     ],
 
 
     showSocialIcons: true,
     socialMediaLinks: {
+        github: 		"https://github.com/bylickilabs",
+        website: 		"https://www.bylickilabs.de",
+        discord: 		"https://discord.gg/MfTE2TSuWP",		
         behance: 		"",
         bitbucket: 		"",
-        discord: 		"https://discord.gg/MfTE2TSuWP",
         dribbble: 		"",
         email: 			"",
         facebook: 		"",
-        github: 		"https://github.com/bylickilabs",
         gitlab: 		"",
         instagram: 		"",
         linkedin: 		"",
@@ -53,9 +78,8 @@ const CONFIG = {
         twitch: 		"",
         twitter: 		"",
         vimeo: 			"",
-        website: 		"https://www.bylickilabs.de",
         whatsapp: 		"",
         wordpress: 		"",
-        youtube: 		"https://www.youtube.com/@AlphaDevelopmentTeam"
+        youtube: 		""
     }	
 };
