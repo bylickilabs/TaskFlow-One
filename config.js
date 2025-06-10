@@ -29,7 +29,7 @@ const CONFIG = {
             repo: 			"https://github.com/bylickilabs/system-diagnose-tool",
             displayName: 	"CLI-DiagnoseTool"
         }		
-
+            username: 		"bylickilabs",
             repo: 			"TaskFlow-One",
             displayName: 	"TaskFlow One"
         },
