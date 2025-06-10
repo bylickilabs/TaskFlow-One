@@ -10,22 +10,22 @@ const CONFIG = {
     githubRepos: [
         {
             username: 		"bylickilabs",
-            repo: 		"https://github.com/bylickilabs/TaskFlow-One",
+            repo: 		"TaskFlow-One",
             displayName: 	"TaskFlow-One"
         },
         {
             username: 		"bylickilabs",
-            repo: 		"https://github.com/bylickilabs/NeonCryptProSuite",
+            repo: 		"NeonCryptProSuite",
             displayName: 	"NeonCryptProSuite"
         },
         {
             username: 		"bylickilabs",
-            repo: 		"https://github.com/bylickilabs/Password-Manager",
+            repo: 		"Password-Manager",
             displayName: 	"PasswordManager"
         },
         {
             username: 		"bylickilabs",
-            repo: 		"https://github.com/bylickilabs/system-diagnose-tool",
+            repo: 		"system-diagnose-tool",
             displayName: 	"CLI-DiagnoseTool"
         }
     ],
