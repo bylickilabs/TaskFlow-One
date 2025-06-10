@@ -28,20 +28,11 @@ const CONFIG = {
             username: 		"bylickilabs",
             repo: 			"https://github.com/bylickilabs/system-diagnose-tool",
             displayName: 	"CLI-DiagnoseTool"
-        }		
+        },
+        {	    
             username: 		"bylickilabs",
             repo: 			"TaskFlow-One",
             displayName: 	"TaskFlow One"
-        },
-        {
-            username: 		"bylickilabs",
-            repo: 			"SysScope",
-            displayName: 	"SysScope"
-        },
-        {
-            username: 		"bylickilabs",
-            repo: 			"NeonCryptProSuite",
-            displayName: 	"NeonCryptProSuite"
         }
 
     ],
